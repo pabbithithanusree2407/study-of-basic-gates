@@ -82,6 +82,7 @@ assign f7=~(a^b);
 endmodule
 ```
 **Logic symbol & Truthtable**
+![Exp-1](https://github.com/user-attachments/assets/7cd11451-4f1b-4009-ab6e-64e7caf9dd51)
 
 **RTL realization Output:** 
 
